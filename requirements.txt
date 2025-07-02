@@ -1,1 +1,4 @@
-pandas\nnumpy\nscikit-learn\nstreamlit
+pandas
+numpy
+scikit-learn
+streamlit
